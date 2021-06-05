@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">3904843636298659</string>
+    <string name="fb_login_protocol_scheme">fb3904843636298659</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985933497591",
+    "project_id": "chatsapp-cda93",
+    "storage_bucket": "chatsapp-cda93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985933497591:android:cea2349f0ee7536f38bff2",
+        "android_client_info": {
+          "package_name": "com.codewithharry.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985933497591-357n01ot05o4c0ku07dbg2bfm7beld0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUE1fmeVvMTD_Q96HLe16XRXhRuHXUe6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985933497591-357n01ot05o4c0ku07dbg2bfm7beld0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

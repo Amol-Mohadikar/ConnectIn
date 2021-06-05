@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.codewithharry.chatsapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_userspeople"
+        android:label="ConnectIn"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChatsApp">
+        <activity android:name=".ResetPasswordActivity" android:parentActivityName=".SignInActivity"></activity>
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SettingsActivity" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".GroupChatActivity" />
+        <activity android:name=".ChatDetailActivity" />
+        <activity android:name=".SignInActivity"></activity>
+        <activity android:name=".SignUpActivity"  />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
